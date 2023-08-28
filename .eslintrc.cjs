@@ -11,6 +11,7 @@ module.exports = {
             "error",
             {
                 tabWidth: 4,
+                endOfLine: "auto",
             },
         ],
         // Since this is the only easy way of io on node
