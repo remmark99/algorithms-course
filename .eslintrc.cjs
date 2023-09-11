@@ -16,5 +16,6 @@ module.exports = {
         ],
         // Since this is the only easy way of io on node
         "no-console": "off",
+        "no-plusplus": "off",
     },
 };
